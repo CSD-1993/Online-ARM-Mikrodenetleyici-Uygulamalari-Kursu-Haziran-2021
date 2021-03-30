@@ -10,4 +10,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Mayis-2021/blob/main/sss.md)
-+ [Kursa Kayıt](https://zoom.us/meeting/register/v5Qld--oqD0rVJfrvoJARlKBjXL6DywZAQ)
++ [Kursa Kayıt]( https://zoom.us/meeting/register/tJMqd-qsqTMjEtRU0HlVWEa_kTHP-DJeWHcI)
