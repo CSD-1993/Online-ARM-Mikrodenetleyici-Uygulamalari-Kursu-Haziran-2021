@@ -7,7 +7,7 @@
 + Kursun toplam ücreti `3.200 TL`‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) `2.900` TL dir. Katılımcılar kurs ücretini dilerlerse `2 taksitte` ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu-/blob/master/kurs_tanitimi.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu-/blob/master/sss.md)
 + [Kursa Kayıt](https://zoom.us/meeting/register/v5Qld--oqD0rVJfrvoJARlKBjXL6DywZAQ)
