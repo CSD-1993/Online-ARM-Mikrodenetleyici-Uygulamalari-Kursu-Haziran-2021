@@ -1,4 +1,4 @@
-##ARM Mikrodenetleyici Uygulamaları
+## ARM Mikrodenetleyici Uygulamaları
 
 Açıklama; Ders akışı sırasında aşığda belirtilen konularda değişiklik yapılabilir. Yeni konular eklenebilir ya da bazı konular programdan çıkartılabilir. Ders konuları işlenme sırasına göre belirtilmemiştir. ARM C Uygulamaları ders programı STM32F4 işlemci mimarisi kullanılarak yürütülecektir. Geliştirme ortamı olarak IAR Embedded Workbench for ARM (EWARM) kullanılacaktır. Uygulama konularında STM32 F4 Discovery geliştirme kitinin kullanılması planlanmaktadır. Ayrıca Mikroelektronika ve diğer firmalarının bazı bordları da kullanılacaktır.
 
