@@ -1,5 +1,4 @@
 ARM Mikrodenetleyici Uygulamaları
-Açıklama; Ders akışı sırasında aşığda belirtilen konularda değişiklik yapılabilir. Yeni konular eklenebilir ya da bazı konular programdan çıkartılabilir. Ders konuları işlenme sırasına göre belirtilmemiştir. ARM C Uygulamaları ders programı STM32F4 işlemci mimarisi kullanılarak yürütülecektir. Geliştirme ortamı olarak IAR Embedded Workbench for ARM (EWARM) kullanılacaktır. Uygulama konularında STM32 F4 Discovery geliştirme kitinin kullanılması planlanmaktadır. Ayrıca Mikroelektronika ve diğer firmalarının bazı bordları da kullanılacaktır.
 
 Kurs konularından bazıları aşağıdadır:
  
@@ -24,8 +23,5 @@ Grafik LCD kullanımı
 RS485 haberleşmesi ve MODBUS protokolü
 Mixed model programming: C - Assembly entegrasyonu
  
-Ön koşul; Daha önce C Programlama dilinde uygulamalı çalışma yapmış olmak ya da C ve Sistem Programcıları Derneği'nin açmış olduğu C Programlama Dili kursuna katılmış olmak.
-*Bu kurs C ve Sistem Programcıları Derneği ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
-Süre: 
- 100 saat
+
 
