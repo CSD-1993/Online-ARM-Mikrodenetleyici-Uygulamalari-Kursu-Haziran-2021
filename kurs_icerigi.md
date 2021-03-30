@@ -25,7 +25,7 @@ RS485 haberleşmesi ve MODBUS protokolü
 Mixed model programming: C - Assembly entegrasyonu
  
 Ön koşul; Daha önce C Programlama dilinde uygulamalı çalışma yapmış olmak ya da C ve Sistem Programcıları Derneği'nin açmış olduğu C Programlama Dili kursuna katılmış olmak.
-* Ücretleri sorunuz. Bu kurs C ve Sistem Programcıları Derneği ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
+*Bu kurs C ve Sistem Programcıları Derneği ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
 Süre: 
  100 saat
 
