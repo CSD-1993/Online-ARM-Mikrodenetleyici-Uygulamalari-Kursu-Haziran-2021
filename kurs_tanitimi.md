@@ -14,7 +14,7 @@ Dersler __Salı-Perşembe__ günleri saat __19:30-22:30__ saatleri arasında __3
 Kurs ____Gürbüz ASLAN__ tarafından verilmektedir.
 
 ## Kurs Ücreti
-Kursun toplam ücreti __3200 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __2900 TL__'dir. Kurs ücretini __2 taksitte__ ödeyebilirsiniz.
+Kursun toplam ücreti KDV dahil __3500 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __3150 TL__'dir. Kurs ücretini __2 taksitte__ ödeyebilirsiniz.
 
 
 ## Kursa Kayıt
