@@ -7,7 +7,7 @@
 + Kursun toplam ücreti KDV dahil `3.500 TL`‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil `3.150` TL dir. Katılımcılar kurs ücretini dilerlerse `2 taksitte` ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Mayis-2021/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Mayis-2021/blob/main/sss.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Haziran-2021/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Haziran-2021/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Haziran-2021/blob/main/sss.md)
 + [Kursa Kayıt]( https://zoom.us/meeting/register/tJMqd-qsqTMjEtRU0HlVWEa_kTHP-DJeWHcI)
