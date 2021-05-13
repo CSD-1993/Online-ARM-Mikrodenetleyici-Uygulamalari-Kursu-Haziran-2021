@@ -1,6 +1,6 @@
-# Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Mayis-2021
+# Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-Haziran-2021
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kursun `25 Mayis 2021` tarihinde başlayacaktır.
++ Kursun `15 Haziran 2021` tarihinde başlayacaktır.
 + Kurs eğitmeni `Gürbüz Aslan`'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi `100` saattir. Dersler `Salı, Perşembe ` günleri `19:30 - 22:30` saatleri arasında yapılacaktır.
