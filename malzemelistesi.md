@@ -2,6 +2,8 @@
 ARM Mikrodenetleyici Uygulamaları Donanım Listesi
 =================================================
 
+ÖNEMLİ NOT: LİSTEDEKİ STM32F4 KARTLARINDAN YALNIZCA BİRİNİ EDİNMENİZ YETERLİ OLACAKTIR. LİSTE SEÇENEK SUNMAK AMACIYLA HAZIRLANMIŞTIR
+
 Derste kullanılması muhtemel kartlar ve diğer donanım elemanlarının bazıları aşağıdaki listede yer almaktadır. Bu liste dışında bazı ölçü aletleri ve elemanlar da derste kullanılacaktır, ancak bunlar temini ve/veya fiyatı nedeniyle doğrudan tavsiye listesinde verilmemiştir. Belirtilen linkler ürünün görseli ve temin edilmesi için örnek niteliktedir, fiyat karşılaştırmaları yapılmamıştır. Ürünleri başka satıcılardan da temin edebilirsiniz.
 
 ST-LINK USB PROGRAMLAYICI
